@@ -1,0 +1,51 @@
+.landingpage-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+.left-landingcontent {
+  margin-top: 3.5rem;
+  flex: 2;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.right-landingcontent {
+  flex: 3;
+}
+
+.svg-landingcontainer {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.landing-container {
+  border-radius: 3% 3%;
+  background-color: #EEECF4;
+  margin-bottom: 2rem;
+}
+
+.review {
+  margin-top: -1.5rem !important;
+  font-size: 11.5px;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.appstore {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: -20px;
+  padding-right: 20px;
+  margin-right: 2rem;
+  margin-left: -2rem;
+}
+
+.fivestar {
+  padding-bottom: 10px;
+}

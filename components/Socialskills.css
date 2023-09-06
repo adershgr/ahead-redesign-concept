@@ -1,0 +1,27 @@
+.svg-ssContainer {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+
+}
+
+.svg-ssContainer>svg {
+  height: 150px;
+}
+
+.ss-container {
+  border-radius: 3% 3%;
+  background-color: #d9f7fa;
+  margin-bottom: 2rem;
+  margin-top: calc(1rem + 4.5rem);
+}
+
+.ss-text-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.ss-text-container h6 {
+  margin: 0;
+}

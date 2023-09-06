@@ -1,0 +1,10 @@
+.eq {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top {
+    margin-top: 5rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}

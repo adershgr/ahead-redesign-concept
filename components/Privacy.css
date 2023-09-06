@@ -1,0 +1,11 @@
+.sign {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.privacy {
+    margin-top: 10rem;
+    text-align: center;
+}

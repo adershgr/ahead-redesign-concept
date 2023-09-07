@@ -35,12 +35,12 @@ function Socialskills() {
   }, []);
 
   return (
-    <div className='container ss-container'>
+    <div id="self-awareness" className='container ss-container'>
       <div>
         <h6 className='text-center pt-5'>Let your friends, family, and co-workers (anonymously) rate your social skills</h6>
-        <h1 className='text-center fw-bold pb-4' ref={titleRef}>Ever wondered what others think of you?</h1>
+        <h1 className='text-center fw-bold pb-4 pt-3' ref={titleRef}>Ever wondered what others think of you?</h1>
       </div>
-      <div className='ss-text-container pt-4'>
+      <div className='ss-text-container pt-4 ribbons'>
         <div className='text-center m-2 px-2'>
           <Image src={ribbon} width="20" alt="ribbon" />
           <h6>Answer questions on your social skills</h6>

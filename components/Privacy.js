@@ -23,7 +23,7 @@ function Privacy() {
           gsap.from(entry.target, {
             y: 20,
             opacity: 0,
-            duration: 2,
+            duration: 1.75,
             ease: 'power2.out',
           });
         }
@@ -47,7 +47,7 @@ function Privacy() {
           <Image src={sign} width="20" alt="signature" />
         </div>
         <div className='text-center mt-3'>
-          <Button variant="dark" className="rounded-pill mb-2">Start test</Button>
+          <Button variant="dark" className="rounded-pill mb-2 ps-3 pe-3">Start test</Button>
         </div>
         <h6 className='text-center mb-7'>Take only 5 minutes</h6>
       </div>

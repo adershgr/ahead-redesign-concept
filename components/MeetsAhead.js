@@ -36,7 +36,7 @@ function MeetsAhead() {
   }, []);
 
   return (
-    <div className='container meetahead-container'>
+    <div id="manifesto" className='container meetahead-container'>
       <div className='meetaheadpage-container'>
         <div className='left-meetaheadcontent'>
           <div className="ma-head">

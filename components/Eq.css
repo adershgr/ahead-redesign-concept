@@ -26,7 +26,7 @@
 }
 
 .card1 {
-  background-color: rgb(254, 238, 202);
+  background-color: rgb(242, 222, 245);
 }
 
 .card2 {
@@ -39,4 +39,8 @@
 
 .card4 {
   background-color: rgb(193, 249, 201);
+}
+
+.padding-end {
+  padding-right:30px
 }

@@ -29,3 +29,8 @@
   display: flex;
   justify-content: center;
 }
+
+.ribbons{
+  margin-left: 3rem;
+  margin-right: 3rem;
+}

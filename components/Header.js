@@ -19,13 +19,13 @@ const Header = () => {
             <a href="#" className=" text-black text-decoration-none mx-2">
               Emotions
             </a>
-            <a href="#" className="text-black text-decoration-none mx-2">
+            <a href="#manifesto" className="text-black text-decoration-none mx-2">
               Manifesto
             </a>
-            <a href="#" className="text-black text-decoration-none mx-2">
+            <a href="#self-awareness" className="text-black text-decoration-none mx-2">
               Self-awareness test
             </a>
-            <a href="#" className="text-black text-decoration-none mx-2">
+            <a href="#work-with-us" className="text-black text-decoration-none mx-2">
               Work with us
             </a>
           </div>

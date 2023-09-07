@@ -1,10 +1,42 @@
 .eq {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .top {
-    margin-top: 5rem;
-    padding-top: 3rem;
-    padding-bottom: 2rem;
+  margin-top: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+.card-deck {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.card-text-small {
+  font-size: 16px;
+}
+
+.rounded-card {
+  border: none;
+  border-radius: 15px;
+  max-width: 18rem;
+}
+
+.card1 {
+  background-color: rgb(254, 238, 202);
+}
+
+.card2 {
+  background-color: rgb(247, 238, 220);
+}
+
+.card3 {
+  background-color: rgb(220, 239, 247);
+}
+
+.card4 {
+  background-color: rgb(193, 249, 201);
 }

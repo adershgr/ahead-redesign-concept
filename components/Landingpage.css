@@ -49,3 +49,8 @@
 .fivestar {
   padding-bottom: 10px;
 }
+
+.landing-svg{
+  display: flex;
+  justify-content: center;
+}

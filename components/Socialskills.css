@@ -2,7 +2,6 @@
   width: 100%;
   max-width: 500px;
   height: auto;
-
 }
 
 .svg-ssContainer>svg {
@@ -24,4 +23,9 @@
 
 .ss-text-container h6 {
   margin: 0;
+}
+
+.animation {
+  display: flex;
+  justify-content: center;
 }

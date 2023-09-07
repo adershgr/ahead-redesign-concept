@@ -11,8 +11,8 @@ export default function Home() {
     <RootLayout>
       <Landingpage />
       <MeetsAhead />
+       <Eq/>
       <Socialskills />
-      {/* <Eq/> */}
       <Privacy />
     </RootLayout>
 
